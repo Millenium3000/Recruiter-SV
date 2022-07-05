@@ -4,6 +4,10 @@
     box-sizing: border-box;
 }
 
+h3,h4,h5 {
+    color: #ff7f2a;;
+}
+
 body{
    background: #f5f7fa;
    padding-top: 40px;
@@ -188,8 +192,10 @@ body{
     margin-bottom: 15px;
 }
 
-.profession-company {
-    color: #ff6f0e;
+.profession-company{
+    color: #000000;
+    line-height: 1.2;
+    margin-bottom: 5px;
 }
 
 .profession-time {
